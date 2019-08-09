@@ -1,48 +1,36 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Meus interesses de pesquisa incluem metodologia computacional aplicada às ciencias sociais, instituições internacionais e troca de regimes políticos.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Bacharelado em Relações Internacionais
+    institution: Pontifícia Universidade Católica do Rio de Janeiro
+    year: 2017--
+email: "pedro.santos@ipea.gov.br"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Programação em R e Análise de Dados
+- Instituições Internacionais
+- Política Comparada
+name: João Pedro Oliveira dos Santos
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Instituto de Pesquisa Econômica Aplicada (IPEA) - Intl. Studies Department (DINTE)
+  url: "http://www.ipea.gov.br/portal/"
+role: Auxiliar de Pesquisa
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/kimjoaoun
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kimjoaoun
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+João Pedro Oliveira dos Santos é bacharelando em Relações Internacionais, pela Pontifícia Universidade Católica do Rio de Janeiro (IRI/PUC-Rio), também é participante (MEC) do Programa de Educação Tutorial (PET) do Instituto de Relações Internacionais da PUC-Rio. É Auxiliar de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA), no projeto Crimes Transnacionais, onde trabalha com métodos quantitativos para ciências sociais e programação em linguagem R.
