@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Materias | Joao Pedro Santos</title>
-    <link>/courses/</link>
-      <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
-    <description>Materias</description>
+    <title>Materiais | Joao Pedro Santos</title>
+    <link>/materiais/</link>
+      <atom:link href="/materiais/index.xml" rel="self" type="application/rss+xml" />
+    <description>Materiais</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Materias</title>
-      <link>/courses/</link>
+      <title>Materiais</title>
+      <link>/materiais/</link>
     </image>
     
   </channel>
