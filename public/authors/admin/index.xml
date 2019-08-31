@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -332,18 +333,6 @@ summary {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 
 
 
@@ -367,7 +356,7 @@ $(document).ready(function () {
 </div>
 
 
-<p>João Pedro Oliveira dos Santos é bacharelando em Relações Internacionais, pela Pontifícia Universidade Católica do Rio de Janeiro (IRI/PUC-Rio), também é participante (MEC) do Programa de Educação Tutorial (PET) do Instituto de Relações Internacionais da PUC-Rio. É Auxiliar de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA), no projeto Crimes Transnacionais, onde trabalha com métodos quantitativos para ciências sociais e programação em linguagem R.</p>
+<p>João Pedro Oliveira dos Santos é bacharelando em Relações Internacionais, pela Pontifícia Universidade Católica do Rio de Janeiro (IRI/PUC-Rio), também é monitor da disciplina <em>IRI1527</em> - <em>Metodologia I</em> do Instituto de Relações Internacionais da PUC-Rio. É Auxiliar de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA), no projeto Crimes Transnacionais, onde trabalha com métodos quantitativos para ciências sociais e programação em linguagem R.</p>
 
 
 
@@ -386,6 +375,23 @@ $(document).ready(function () {
 
 
 </script>
+
+
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+
+
 
 
 <script>

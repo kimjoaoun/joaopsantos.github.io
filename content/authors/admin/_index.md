@@ -6,7 +6,7 @@ education:
   courses:
   - course: Bacharelado em Relações Internacionais
     institution: Pontifícia Universidade Católica do Rio de Janeiro
-    year: 2017--
+    year: 2017-
 email: "pedro.santos@ipea.gov.br"
 interests:
 - Programação em R e Análise de Dados
