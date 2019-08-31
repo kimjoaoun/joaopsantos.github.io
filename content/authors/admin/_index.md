@@ -33,4 +33,4 @@ user_groups:
 - Visitors
 ---
 
-João Pedro Oliveira dos Santos é bacharelando em Relações Internacionais, pela Pontifícia Universidade Católica do Rio de Janeiro (IRI/PUC-Rio), também é participante (MEC) do Programa de Educação Tutorial (PET) do Instituto de Relações Internacionais da PUC-Rio. É Auxiliar de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA), no projeto Crimes Transnacionais, onde trabalha com métodos quantitativos para ciências sociais e programação em linguagem R.
+João Pedro Oliveira dos Santos é bacharelando em Relações Internacionais, pela Pontifícia Universidade Católica do Rio de Janeiro (IRI/PUC-Rio), também é monitor da disciplina *IRI1527* - *Metodologia I* do Instituto de Relações Internacionais da PUC-Rio. É Auxiliar de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA), no projeto Crimes Transnacionais, onde trabalha com métodos quantitativos para ciências sociais e programação em linguagem R. 
