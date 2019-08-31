@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Materiais | Joao Pedro Santos</title>
-    <link>/materiais/</link>
-      <atom:link href="/materiais/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://joaopsantos.netlify.com/materiais/</link>
+      <atom:link href="https://joaopsantos.netlify.com/materiais/index.xml" rel="self" type="application/rss+xml" />
     <description>Materiais</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>pt-br</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://joaopsantos.netlify.com/img/icon-192.png</url>
       <title>Materiais</title>
-      <link>/materiais/</link>
+      <link>https://joaopsantos.netlify.com/materiais/</link>
     </image>
     
   </channel>
